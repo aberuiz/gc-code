@@ -1,0 +1,4 @@
+baseURL = 'https://graycompass.co/'
+languageCode = 'en-us'
+title = 'gray compass'
+theme = 'hugo-PaperMod'

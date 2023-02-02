@@ -1,0 +1,4 @@
+[submodule "graycompass/public"]
+	path = graycompass/public
+	url = https://github.com/aberuiz/gc-content.git
+	branch = main
