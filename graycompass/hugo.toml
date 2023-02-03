@@ -3,10 +3,10 @@ languageCode = 'en-us'
 title = 'gray compass'
 theme = 'PaperMod'
 
-Params:
-	HomeInfoParams:
-		Title: gray compass
-		Content: by Abraham Ruiz
-	Social Icons:
-		- name: "<mastodon>"
-		- url:	"<a rel="me" href="https://spore.social/@abe">Mastodon</a>"
+[params.homeInfoParams]
+Title='gray compass'
+Content: 'Abraham Ruiz'
+
+[[params.socialIcons]]
+name: "mastodon"
+url="<a rel="me" href="https://spore.social/@abe">Mastodon</a>"
