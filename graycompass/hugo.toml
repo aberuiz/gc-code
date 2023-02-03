@@ -8,5 +8,5 @@ Title='gray compass'
 Content: 'Abraham Ruiz'
 
 [[params.socialIcons]]
-name: "mastodon"
-url="<a rel="me" href="https://spore.social/@abe">Mastodon</a>"
+name: 'mastodon'
+url= 'rel="me" href="https://spore.social/@abe">Mastodon</a>'
