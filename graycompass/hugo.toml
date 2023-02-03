@@ -4,8 +4,8 @@ title = 'gray compass'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-Title='gray compass'
-Content: 'Abraham Ruiz'
+title='gray compass'
+content= 'Abraham Ruiz'
 
 [[params.socialIcons]]
 name = 'mastodon'
