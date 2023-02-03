@@ -9,4 +9,5 @@ Content: 'Abraham Ruiz'
 
 [[params.socialIcons]]
 name: 'mastodon'
-url= 'rel="me" href="https://spore.social/@abe">Mastodon</a>'
+url= 'rel="me"' 
+href="https://spore.social/@abe"
