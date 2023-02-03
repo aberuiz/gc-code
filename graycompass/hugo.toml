@@ -12,12 +12,8 @@ subtitle = 'by Abraham Ruiz"
 
 [[params.profileMode.buttons]]
 name = 'letters'
-
-[params.profileMode.buttons]]
-url = '<link /posts>'
+url = '/posts'
 
 [[params.socialIcons]]
 name = 'mastodon'
-
-[[params.socialIcons]]
 url = '<link https://spore.social/@abe>'
