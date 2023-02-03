@@ -18,5 +18,5 @@ url = '/posts'
 name = 'mastodon'
 
 [[params.socialIcons]]
-Url = "rel="me"" 
-href = "https://spore.social/@abe"
+Url = 'https://spore.social/@abe'
+rel= 'me'
