@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'gray compass'
 theme = 'PaperMod'
 
+
+
 [params.profileMode]
 enabled = true
 title = 'gray compass'
@@ -12,10 +14,10 @@ subtitle = 'by Abraham Ruiz"
 name = 'letters'
 
 [params.profileMode.buttons]]
-url = '/posts'
+url = '<link /posts>'
 
 [[params.socialIcons]]
 name = 'mastodon'
 
 [[params.socialIcons]]
-url = 'https://spore.social/@abe'
+url = '<link https://spore.social/@abe>'
