@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params.profileMode]
 enabled = 'true'
 title = 'gray compass'
-subtitle = 'by Abraham Ruiz"
+subtitle = 'by Abraham Ruiz'
 
 [[params.profileMode.buttons]]
 name = 'letters'
