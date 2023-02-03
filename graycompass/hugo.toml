@@ -3,10 +3,8 @@ languageCode = 'en-us'
 title = 'gray compass'
 theme = 'PaperMod'
 
-
-
 [params.profileMode]
-enabled = true
+enabled = 'true'
 title = 'gray compass'
 subtitle = 'by Abraham Ruiz"
 
