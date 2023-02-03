@@ -5,6 +5,7 @@ theme = 'PaperMod'
 
 [params.profileMode]
 enabled = 'true'
+defaultTheme = 'auto' #dark, light
 title = 'gray compass'
 subtitle = 'by Abraham Ruiz'
 
