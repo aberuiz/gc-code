@@ -2,15 +2,17 @@ baseURL = 'https://graycompass.co/'
 languageCode = 'en-us'
 title = 'gray compass'
 theme = 'PaperMod'
+color = 'linen'
+
 
 [params.profileMode]
 enabled = 'true'
-defaultTheme = 'auto' #dark, light
-title = 'gray compass'
-subtitle = 'by Abraham Ruiz'
+defaultTheme = 'auto'
+title = 'Abraham Ruiz'
+subtitle = 'A Research Coordinator at Workers Defense Project. And overall general hobbyist that loves to get in over his head learning new things.'
 
 [[params.profileMode.buttons]]
-name = 'letters'
+name = 'posts'
 url = '/posts'
 
 [[params.socialIcons]]
@@ -18,3 +20,7 @@ name = 'mastodon'
 rel = 'me'
 url = 'https://spore.social/@abe'
 href = 'https://spore.social/@abe'
+
+[[params.socialIcons]]
+name = 'email'
+href = '00_webpage_carton@icloud.com?I found you through your website'
