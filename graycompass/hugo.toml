@@ -2,14 +2,12 @@ baseURL = 'https://graycompass.co/'
 languageCode = 'en-us'
 title = 'gray compass'
 theme = 'PaperMod'
-color = 'linen'
-
 
 [params.profileMode]
 enabled = 'true'
 defaultTheme = 'auto'
 title = 'Abraham Ruiz'
-subtitle = 'A Research Coordinator at Workers Defense Project. And overall general hobbyist that loves to get in over his head learning new things.'
+subtitle = 'Research Coordinator at Workers Defense Project. And general hobbyist that loves to get in over my head learning new things.'
 
 [[params.profileMode.buttons]]
 name = 'posts'
