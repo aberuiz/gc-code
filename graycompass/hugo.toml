@@ -21,6 +21,4 @@ href = 'https://spore.social/@abe'
 
 [[params.socialIcons]]
 name = 'email'
-href = 'mailto:00_webpage_carton@icloud.com?I found you through your website'
-mailto = '00_webpage_carton@icloud.com'
 url = 'mailto:00_webpage_carton@icloud.com?subject=Hi, I found you through your website'
