@@ -3,6 +3,13 @@ languageCode = 'en-us'
 title = 'gray compass'
 theme = 'PaperMod'
 
+[params]
+favicon = '/static/favicon.ico' #favicon = "<link /static/favicon.ico>"
+
+[assets]
+disableHLJS = 'true'
+favicon = "<link /static/favicon.ico>"
+
 [params.profileMode]
 enabled = 'true'
 defaultTheme = 'auto'
