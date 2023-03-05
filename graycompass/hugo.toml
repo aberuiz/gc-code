@@ -27,5 +27,9 @@ url = 'https://spore.social/@abe'
 href = 'https://spore.social/@abe'
 
 [[params.socialIcons]]
+name = 'github'
+url = 'https://github.com/aberuiz'
+
+[[params.socialIcons]]
 name = 'email'
 url = 'mailto:00_webpage_carton@icloud.com?subject=Hi, I found you through your website'
