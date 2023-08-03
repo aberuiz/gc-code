@@ -23,8 +23,8 @@ url = '/posts'
 [[params.socialIcons]]
 name = 'mastodon'
 rel = 'me'
-url = 'https://spore.social/@abe'
-href = 'https://spore.social/@abe'
+url = 'https://union.place/@abe'
+href = 'https://union.place/@abe'
 
 [[params.socialIcons]]
 name = 'github'
