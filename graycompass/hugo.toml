@@ -33,3 +33,8 @@ url = 'https://github.com/aberuiz'
 [[params.socialIcons]]
 name = 'email'
 url = 'mailto:00_webpage_carton@icloud.com?subject=Hi, I found you through your website'
+
+[module]
+[[module.mounts]]
+	source = '/home/user/random'
+	target = 'random'
