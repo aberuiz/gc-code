@@ -36,5 +36,5 @@ url = 'mailto:00_webpage_carton@icloud.com?subject=Hi, I found you through your 
 
 [module]
 [[module.mounts]]
-	source = '/home/user/random'
+	source = '/home/public/random'
 	target = 'random'
